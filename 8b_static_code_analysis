@@ -1,0 +1,9 @@
+theia@theiadocker-jollyaman23:/home/project/final_project$ pylint server.py
+************* Module server
+server.py:25:0: C0304: Final newline missing (missing-final-newline)
+server.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+server.py:8:0: C0116: Missing function or method docstring (missing-function-docstring)
+server.py:13:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+-----------------------------------
+Your code has been rated at 6.92/10
